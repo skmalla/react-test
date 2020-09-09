@@ -1,0 +1,16 @@
+.bold {
+  font-weight: bold !important;
+}
+
+label {
+  font-weight: 400;
+}
+
+button {
+  font-weight: 500 !important;
+  font-size: 16px !important;
+}
+
+.top-space {
+  margin-top: 100px;
+}
